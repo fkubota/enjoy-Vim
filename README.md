@@ -1,6 +1,6 @@
 <img src='design/enjoy-vim.png' width='2000'>
 
-# enjoy-vim
+# enjoy-Vim
 初心者向けvimmer勉強会用リポジトリ。  
 初心者4人、経験者1~2人程度の初心者中心の会。  
 
