@@ -4,7 +4,7 @@
 初心者向けvimmer勉強会用リポジトリ。  
 参加者はスター押してくれるとうれしいな！！！  
 初心者4人、経験者1~2人程度の初心者中心の会。  
-twitterのハッシュタグは `#enjoy_vim` でやってもらえると嬉しい。  
+twitterのハッシュタグは `[#enjoy_vim](https://twitter.com/search?q=enjoy_vim&src=typed_query&f=live)` でやってもらえると嬉しい。  
 
  ↓ 問題例  
 
