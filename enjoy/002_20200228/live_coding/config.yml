@@ -1,0 +1,5 @@
+model:
+  params:
+    random_state: 42
+    max_depth: 2
+
