@@ -1,0 +1,4 @@
+model:
+  params:
+    max_depth: 2
+    min_samples_split: 10
