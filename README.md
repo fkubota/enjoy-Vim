@@ -38,7 +38,7 @@ twitterのハッシュタグは [\#enjoy_vim](https://twitter.com/search?q=enjoy
 
 1. 問題演習1
     1. 簡単な問題を全員の前で解いてもらう(これが恥ずかしくない雰囲気を絶対作る。間違えて当たり前。)
-		  - 例: [e02_valid.py](https://github.com/fkubota/enjoy-vim/blob/main/enjoy/000_20200217/e02_valid.py)
+		  - 例: [e02_valid.py](https://github.com/fkubota/enjoy-Vim/blob/main/enjoy/001_20210224/e02_valid.py)
     1. 他の参加者からアドバイスや質問(ワイワイやる)
     1. 経験者からのアドバイス(ワイワイやる)
 	  1. 1~3を数問やる
