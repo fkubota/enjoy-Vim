@@ -50,3 +50,10 @@ twitterのハッシュタグは [\#enjoy_vim](https://twitter.com/search?q=enjoy
 3. 問題演習2
 	- 問題演習1と同様
 4. 時間が余れば適当に潰す
+
+
+## おすすめ書籍
+僕はこの本でしか勉強してないです。  
+**実践vim**
+
+<img src='data/実践vim.jpg' width='300'>
